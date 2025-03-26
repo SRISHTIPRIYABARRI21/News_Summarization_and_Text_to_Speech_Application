@@ -9,11 +9,12 @@ license: mit
 short_description: Web Scrapping, Gradio, HuggingFace, Sentiment analysis, BeautifulSoup, TTS
 ---
 
+🚀 Try the demo on Hugging Face Spaces:  
+[![Hugging Face Space](https://img.shields.io/badge/Hugging%20Face-Try%20it%20now-yellow)](https://huggingface.co/spaces/Srishtipriya/news-summarization-tts-app_2)
+
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
 ---
-
-# News Summarization and Sentiment Analysis Application
 
 This application fetches news articles, summarizes them, analyzes their sentiment, and provides translations of the summaries. It uses the Hugging Face Transformers library for natural language processing tasks and Gradio for the user interface.
 This project has been implemented and tested in Google Colab for seamless execution and efficient model inference.
