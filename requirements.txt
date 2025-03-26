@@ -1,0 +1,8 @@
+gradio
+transformers
+beautifulsoup4
+requests
+nltk
+huggingface_hub
+gtts
+torch
