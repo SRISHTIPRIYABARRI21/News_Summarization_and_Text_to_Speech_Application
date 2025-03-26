@@ -1,33 +1,17 @@
 # News_Summarization_and_Text_to_Speech_Application
-
 ---
 title: News Summarization and Text-to-Speech Application
-emoji: 🐨
-colorFrom: pink
-colorTo: pink
 sdk: gradio
 sdk_version: 5.23.1
 app_file: app.py
 pinned: false
 license: mit
-short_description: Web Scrapping, Gradio, HuggingFace, Sentiment analysis.
+short_description: Web Scrapping, Gradio, HuggingFace, Sentiment analysis, BeautifulSoup, TTS
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
-  ---
-title: News Summarization Tts Application
-emoji: 🐢
-colorFrom: green
-colorTo: pink
-sdk: gradio
-sdk_version: 5.22.0
-app_file: app.py
-pinned: true
-license: apache-2.0
-short_description: Python, BeautifulSoup, Gradio, and Hugging Face models
 ---
-
 
 # News Summarization and Sentiment Analysis Application
 
