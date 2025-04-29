@@ -15,6 +15,8 @@ short_description: Web Scrapping, Gradio, HuggingFace, Sentiment analysis, Beaut
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
 ---
+![image](https://github.com/user-attachments/assets/d17b6c52-f24f-4e04-8d1a-2ea0dce0a1c2)
+![image](https://github.com/user-attachments/assets/54b7e3f2-0ed5-4393-9f37-fb0bd625637e)
 
 This application fetches news articles, summarizes them, analyzes their sentiment, and provides translations of the summaries. It uses the Hugging Face Transformers library for natural language processing tasks and Gradio for the user interface.
 This project has been implemented and tested in Google Colab for seamless execution and efficient model inference.
